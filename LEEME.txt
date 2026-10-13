@@ -1,0 +1,12 @@
+CSS EN ACCIÓN — PARA VISUAL STUDIO CODE
+
+1. Extrae el ZIP completo. Conserva los tres archivos en la misma carpeta.
+2. Abre esa carpeta en Visual Studio Code.
+3. index.html contiene el contenido; estilos.css, el diseño; script.js, los botones.
+4. Para ver la página, abre la carpeta en el Explorador de Windows y haz doble clic
+   en index.html. Debe abrirse en Chrome, Edge o Firefox.
+5. Al editar: guarda con Ctrl+S y actualiza el navegador con Ctrl+R.
+
+No necesitas instalar paquetes, ejecutar comandos ni tener internet.
+Si Windows abre el HTML en el editor, usa clic derecho > Abrir con > tu navegador.
+Para GitHub Pages, sube index.html, estilos.css y script.js juntos a la misma carpeta.
